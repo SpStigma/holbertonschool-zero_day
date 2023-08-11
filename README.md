@@ -1,2 +1,2 @@
-# Bébut du C
+# Début du C
 ---
